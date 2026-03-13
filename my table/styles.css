@@ -1,0 +1,20 @@
+body{
+    padding-left: 400px;
+    font-size: medium;
+}
+th{
+    font-size:xx-large;
+padding-left: 20px;
+padding-right: 50px;
+padding-top: 15px;
+ border-color: red;
+}
+td{
+    border-color: red;
+}
+table{
+    color: black;
+}
+tr{
+    font-size: larger;
+}
